@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "type": "module",
-  "main": "src\\index.js",
+  "main": "src/index.js",
   "scripts": {
-    "start": "nodemon --inspect src\\index.js",
-    "watch": "node-sass --watch src\\resouses\\scss\\ --output src\\public\\css\\",
+    "start": "nodemon --inspect src/index.js",
+    "watch": "node-sass --watch src/resouses/scss/ --output src/public/css/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
